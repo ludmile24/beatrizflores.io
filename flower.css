@@ -90,9 +90,8 @@ body {
   }
   .texto {
     position: absolute;
-    top:19%;
     bottom: 70%;
-    font-size: 2rem; /* Tamanho da fonte desejado */
+    font-size: 1.85rem; /* Tamanho da fonte desejado */
     color: #159faa; /* Cor das flores - ajuste conforme necessário */
     z-index: 1000; /* Certifique-se de que o texto está acima das flores */
     margin-left: 50px;
